@@ -37,6 +37,3 @@ The A/B testing methodology is applied to assess differences in **UI/UX performa
 ## Key Findings
 - These results indicate a clear and statistically robust disparity, but in the unfavorable direction for Variant B.
 - his underperformance is consistent across checkout conversions, purchase conversions, and revenue generation, suggesting that the simpler design may introduce usability barriers, reduce user engagement, or fail to effectively guide users through the funnel.
-
----
-📂 Repository Structure
